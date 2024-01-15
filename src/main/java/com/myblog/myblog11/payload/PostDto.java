@@ -2,8 +2,7 @@ package com.myblog.myblog11.payload;
 
 import lombok.*;
 
-@Getter
-@Setter
+
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
